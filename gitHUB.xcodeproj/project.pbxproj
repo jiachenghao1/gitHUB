@@ -10,6 +10,7 @@
 		4E43D85F1CD0B04E009E016A /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E43D85E1CD0B04E009E016A /* FirstViewController.m */; };
 		4E839F1F1CD0B38900967A00 /* DDDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E839F1E1CD0B38900967A00 /* DDDViewController.m */; };
 		4E839F221CD0B40900967A00 /* IosViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E839F211CD0B40900967A00 /* IosViewController.m */; };
+		4E839F251CD0B44500967A00 /* adhjadhjaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E839F241CD0B44500967A00 /* adhjadhjaViewController.m */; };
 		4ED478431CD0AE7C007C82F3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ED478421CD0AE7C007C82F3 /* main.m */; };
 		4ED478461CD0AE7C007C82F3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ED478451CD0AE7C007C82F3 /* AppDelegate.m */; };
 		4ED478491CD0AE7C007C82F3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ED478481CD0AE7C007C82F3 /* ViewController.m */; };
@@ -36,6 +37,8 @@
 		4E839F1E1CD0B38900967A00 /* DDDViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDDViewController.m; sourceTree = "<group>"; };
 		4E839F201CD0B40900967A00 /* IosViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IosViewController.h; sourceTree = "<group>"; };
 		4E839F211CD0B40900967A00 /* IosViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IosViewController.m; sourceTree = "<group>"; };
+		4E839F231CD0B44500967A00 /* adhjadhjaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = adhjadhjaViewController.h; sourceTree = "<group>"; };
+		4E839F241CD0B44500967A00 /* adhjadhjaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = adhjadhjaViewController.m; sourceTree = "<group>"; };
 		4ED4783D1CD0AE7C007C82F3 /* gitHUB.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitHUB.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4ED478411CD0AE7C007C82F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4ED478421CD0AE7C007C82F3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -72,6 +75,8 @@
 		4ED478341CD0AE7C007C82F3 = {
 			isa = PBXGroup;
 			children = (
+				4E839F231CD0B44500967A00 /* adhjadhjaViewController.h */,
+				4E839F241CD0B44500967A00 /* adhjadhjaViewController.m */,
 				4E839F201CD0B40900967A00 /* IosViewController.h */,
 				4E839F211CD0B40900967A00 /* IosViewController.m */,
 				4E839F1D1CD0B38900967A00 /* DDDViewController.h */,
@@ -237,6 +242,7 @@
 				4ED478491CD0AE7C007C82F3 /* ViewController.m in Sources */,
 				4E839F1F1CD0B38900967A00 /* DDDViewController.m in Sources */,
 				4ED478461CD0AE7C007C82F3 /* AppDelegate.m in Sources */,
+				4E839F251CD0B44500967A00 /* adhjadhjaViewController.m in Sources */,
 				4ED478431CD0AE7C007C82F3 /* main.m in Sources */,
 				4E839F221CD0B40900967A00 /* IosViewController.m in Sources */,
 				4E43D85F1CD0B04E009E016A /* FirstViewController.m in Sources */,
